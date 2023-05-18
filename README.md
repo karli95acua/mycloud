@@ -1,2 +1,0 @@
-# mycloud
- Bootcamp Coding Dojo
